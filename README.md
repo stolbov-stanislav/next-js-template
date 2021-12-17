@@ -1,6 +1,6 @@
 ## Overview
 
-Next.js template project with built-in **Typescript** (including project root as *baseURL*), **ESLint**, **Sass**, **Normalize-scss**, *setting up global styles* and added *npm preinstall hook* for **nvm** *install/use*.
+**Next.js** template project with built-in **Typescript** (including project root as *baseURL*), **ESLint**, **Sass**, **Normalize-scss**, *setting up global styles* and added *npm preinstall hook* for **nvm** *install/use*.
 
 ## Getting Started
 
