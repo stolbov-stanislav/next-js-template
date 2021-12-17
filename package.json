@@ -1,0 +1,38 @@
+{
+  "name": "your-project-name",
+  "author": {
+    "name": "Your Full Name",
+    "email": "your-email@email.com",
+    "url": "https://your-site.com"
+  },
+  "version": "your-project-version",
+  "license": "choose-your-license",
+  "keywords": [
+    "some",
+    "project",
+    "features"
+  ],
+  "description": "Your project description.",
+  "repository": "your-repository-address",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "preinstall": "nvm install 16.13.1 && nvm use 16.13.1"
+  },
+  "dependencies": {
+    "next": "12.0.7",
+    "normalize-scss": "^7.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.45.0"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.13",
+    "@types/react": "17.0.37",
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.4"
+  }
+}
