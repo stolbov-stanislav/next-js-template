@@ -14,12 +14,14 @@
   ],
   "description": "Your project description.",
   "repository": "your-repository-address",
+  "engines": {
+    "node": ">=16"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "preinstall": "nvm install 16.13.1 && nvm use 16.13.1"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "12.0.7",
